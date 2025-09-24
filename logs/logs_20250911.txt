@@ -1,0 +1,101 @@
+[2025-09-11 09:34:06] ACTION: QueryCustomerInfo | MSISDN: 54fl2100016 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 09:34:16] ACTION: ChangeAccountInfo | MSISDN: 54fl2100016 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "20058885", "bcs:LimitClass": "I", "bcs:Amount": "1000000000", "bcs:EffectiveTime": "20250911093419", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "3", "bcs:NewStatus": "3"}}}}}]
+[2025-09-11 10:17:50] ACTION: QueryCustomerInfo | MSISDN: 21fh471105 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 10:17:54] ACTION: ChangeAccountInfo | MSISDN: 21fh471105 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "30066839", "bcs:LimitClass": "I", "bcs:Amount": "1000000000", "bcs:EffectiveTime": "20250911101754", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "3", "bcs:NewStatus": "2"}}}}}]
+[2025-09-11 10:17:56] ACTION: QueryCustomerInfo | MSISDN: 21fh471105 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 10:19:45] ACTION: QueryCustomerInfo | MSISDN: 21fh221353 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 10:26:55] ACTION: QueryCustomerInfo | MSISDN: 54fl2100016 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "4"
+}
+[2025-09-11 10:27:47] ACTION: QueryCustomerInfo | MSISDN: 54fl2100016 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "4"
+}
+[2025-09-11 10:39:15] ACTION: QueryCustomerInfo | MSISDN: 21fh221353 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 10:40:59] ACTION: QueryCustomerInfo | MSISDN: 21fh465638 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "4"
+}
+[2025-09-11 10:41:35] ACTION: ChangeAccountInfo | MSISDN: 21fh465638 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "20421107", "bcs:LimitClass": "I", "bcs:Amount": "0", "bcs:EffectiveTime": "20250911104135", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "2", "bcs:NewStatus": "2"}}}}}]
+[2025-09-11 10:41:38] ACTION: QueryCustomerInfo | MSISDN: 21fh465638 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 11:50:25] ACTION: QueryCustomerInfo | MSISDN: 41fh600130 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 11:50:29] ACTION: ChangeAccountInfo | MSISDN: 41fh600130 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "30010214", "bcs:LimitClass": "I", "bcs:Amount": "1000000000", "bcs:EffectiveTime": "20250911115029", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "3", "bcs:NewStatus": "2"}}}}}]
+[2025-09-11 14:38:14] ACTION: QueryCustomerInfo | MSISDN: 41fh311422 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "4"
+}
+[2025-09-11 14:38:19] ACTION: ChangeAccountInfo | MSISDN: 41fh311422 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "20455087", "bcs:LimitClass": "I", "bcs:Amount": "0", "bcs:EffectiveTime": "20250911143819", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "2", "bcs:NewStatus": "2"}}}}}]
+[2025-09-11 14:38:22] ACTION: QueryCustomerInfo | MSISDN: 41fh311422 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 15:56:54] ACTION: QueryCustomerInfo | MSISDN: 2059241111 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "4"
+}
+[2025-09-11 15:57:00] ACTION: ChangeAccountInfo | MSISDN: 2059241111 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "20198186", "bcs:LimitClass": "I", "bcs:Amount": "0", "bcs:EffectiveTime": "20250911155659", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "2", "bcs:NewStatus": "2"}}}}}]
+[2025-09-11 15:57:12] ACTION: QueryCustomerInfo | MSISDN: 2059241111 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 16:00:04] ACTION: QueryCustomerInfo | MSISDN: 2055474110 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "4"
+}
+[2025-09-11 16:00:09] ACTION: ChangeAccountInfo | MSISDN: 2055474110 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "20150107", "bcs:LimitClass": "I", "bcs:Amount": "0", "bcs:EffectiveTime": "20250911160009", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "2", "bcs:NewStatus": "2"}}}}}]
+[2025-09-11 16:00:12] ACTION: QueryCustomerInfo | MSISDN: 2055474110 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 16:13:12] ACTION: QueryCustomerInfo | MSISDN: 21fh735138 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "4"
+}
+[2025-09-11 16:13:18] ACTION: ChangeAccountInfo | MSISDN: 21fh735138 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "30017774", "bcs:LimitClass": "I", "bcs:Amount": "0", "bcs:EffectiveTime": "20250911161318", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "2", "bcs:NewStatus": "2"}}}}}]
+[2025-09-11 16:13:20] ACTION: QueryCustomerInfo | MSISDN: 21fh735138 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 16:13:40] ACTION: QueryCustomerInfo | MSISDN: 21fh820687 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "4"
+}
+[2025-09-11 16:13:45] ACTION: ChangeAccountInfo | MSISDN: 21fh820687 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "30017775", "bcs:LimitClass": "I", "bcs:Amount": "0", "bcs:EffectiveTime": "20250911161345", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "2", "bcs:NewStatus": "2"}}}}}]
+[2025-09-11 16:13:47] ACTION: QueryCustomerInfo | MSISDN: 21fh820687 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 16:14:55] ACTION: QueryCustomerInfo | MSISDN: 21fh650989 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "4"
+}
+[2025-09-11 16:15:02] ACTION: ChangeAccountInfo | MSISDN: 21fh650989 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "30016861", "bcs:LimitClass": "I", "bcs:Amount": "0", "bcs:EffectiveTime": "20250911161502", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "2", "bcs:NewStatus": "2"}}}}}]
+[2025-09-11 16:15:04] ACTION: QueryCustomerInfo | MSISDN: 21fh650989 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 16:15:27] ACTION: QueryCustomerInfo | MSISDN: 21fh673150 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 16:15:43] ACTION: QueryCustomerInfo | MSISDN: 21fh779100 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 16:16:27] ACTION: QueryCustomerInfo | MSISDN: 21fh733155 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 16:26:02] ACTION: QueryCustomerInfo | MSISDN: 21330376 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "4"
+}
+[2025-09-11 16:26:11] ACTION: ChangeAccountInfo | MSISDN: 21330376 | RESPONSE: [{"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctInfoResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeAcctCreditLimitResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeAcctCreditLimitResult": {"bcs:CreditLimit": {"bcs:CreditInstID": "20188580", "bcs:LimitClass": "I", "bcs:Amount": "0", "bcs:EffectiveTime": "20250911162611", "bcs:ExpireTime": "20370101000000"}}}}}}, {"soapenv:Envelope": {"@xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/", "soapenv:Body": {"bcs:ChangeSubStatusResultMsg": {"@xmlns:bcs": "http://www.huawei.com/bme/cbsinterface/bcservices", "@xmlns:cbs": "http://www.huawei.com/bme/cbsinterface/cbscommon", "ResultHeader": {"cbs:Version": "1", "cbs:ResultCode": "0", "cbs:ResultDesc": "Operation successfully."}, "ChangeSubStatusResult": {"bcs:OldStatus": "2", "bcs:NewStatus": "2"}}}}}]
+[2025-09-11 16:26:15] ACTION: QueryCustomerInfo | MSISDN: 21330376 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 16:29:08] ACTION: QueryCustomerInfo | MSISDN: 21fh673150 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 16:33:40] ACTION: QueryCustomerInfo | MSISDN: 21fh820687 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}
+[2025-09-11 17:18:12] ACTION: QueryCustomerInfo | MSISDN: 21351156 | RESPONSE: {
+    "CN_ACCT_GROUP_TYPE": "3"
+}

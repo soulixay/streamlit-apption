@@ -1,0 +1,45 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin123",
+            "role": "admin"
+        },
+               {
+            "username": "vte2829",
+            "password": "#Ltc@2829",
+            "role": "admin"
+        },
+        {
+            "username": "vte3332",
+            "password": "#Ltc@3332",
+            "role": "admin"
+        }
+        ,
+        {
+            "username": "user",
+            "password": "user123",
+            "role": "user"
+        },
+        {
+            "username": "vte1043",
+            "password": "#Ltc@1043",
+            "role": "user"
+        },
+        {
+            "username": "vte3892",
+            "password": "#Ltc@13892",
+            "role": "user"
+        },
+        {
+            "username": "vte1952",
+            "password": "#Ltc@1952",
+            "role": "user"
+        },
+        {
+            "username": "vte3946",
+            "password": "#Ltc@3946",
+            "role": "user"
+        }
+    ]
+}

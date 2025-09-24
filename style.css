@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'PhetsarathOT';
+    src: url('PhetsarathOT.ttf') format('truetype');
+}
+html, body, div, p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'PhetsarathOT', sans-serif;
+}
+/* Center login box */
+div.stTextInput {
+    margin-bottom: 20px;
+}
+
+/* Style button */
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+
+.stButton > button {
+    background-color: #0000cd; 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 250px;
+}
+    .stButton > button:hover {
+    background-color: #C0C0C0;
+}
